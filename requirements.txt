@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+aiogram
+python-dotenv
+pydantic_settings
+httpx
+pydantic
+asyncio
+sqlalchemy
+databases
+aiosqlite
+passlib
+python-jose
+python-multipart
